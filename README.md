@@ -1,1 +1,1 @@
-# Application-of-PCA-in-Wine-Dataset
+# Application-of-PCA-in-Wine-Dataset[Application of PCA in Wine Dataset.pdf](https://github.com/bikashparamanik/Application-of-PCA-in-Wine-Dataset/files/12137031/Application.of.PCA.in.Wine.Dataset.pdf)
