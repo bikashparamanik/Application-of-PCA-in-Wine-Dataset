@@ -1,1 +1,2 @@
-# Application-of-PCA-in-Wine-Dataset![image](https://github.com/bikashparamanik/Application-of-PCA-in-Wine-Dataset/assets/118504748/19d7886c-5390-43f9-af51-bc9a950c9ac4)
+# Application-of-PCA-in-Wine-Dataset![image](https://github.com/bikashparamanik/Application-of-PCA-in-Wine-Dataset/assets/118504748/df5b9af0-16ba-46ff-82f4-a36a90455d49)
+
